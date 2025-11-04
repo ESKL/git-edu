@@ -1,8 +1,11 @@
 # git lesson
 ## git commands 
-git init
-git status
-
+git init - инициализация репозитория
+git status - информация о текущем состоянии репозитория
+git add -добавить файлы в репозиторий
+git commit - зафиксировать текущее состояние
+git log - вывести историю фиксаций (коммитов)
+git checkout - изменить текущую версию (перемещение между коммитами)
 
 ## Text formatting 
 
@@ -13,3 +16,10 @@ git status
 __bold__
 
 __*bold*__
+
+## Lists 
+
+- list
+
+* fwe
+* fgfgh
