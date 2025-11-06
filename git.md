@@ -54,4 +54,4 @@ __*bold*__
 
 ## Pictures
 
-![Любимый гофер](/git_edu/gopher.webp)
+![Любимый гофер](/git_edu/gopher.jpg)
